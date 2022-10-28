@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+.header {
+    position: fixed;
+    border-bottom: 1px solid seashell;
+    height: 69px;
+}
+
+.contacts {
+    height: 200px;
+}
+
+footer {
+    text-align: left;
+    padding: 20px;
+}
