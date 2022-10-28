@@ -1,2 +1,2 @@
-# web-dev-projects
+# Web Development Projects
  Learning projects using HTML, CSS and JavaScript
