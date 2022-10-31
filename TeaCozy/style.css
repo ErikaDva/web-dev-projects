@@ -18,6 +18,10 @@ body {
     padding: 0;
 }
 
+html {
+    scroll-padding-top: 69px; /* height of fixed header */
+}
+
 /* Header */
 
 header {
