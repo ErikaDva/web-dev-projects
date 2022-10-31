@@ -163,4 +163,9 @@ main {
 footer {
     text-align: left;
     padding: 20px;
+    line-height: 0;
+}
+
+footer a {
+    color: seashell;
 }
