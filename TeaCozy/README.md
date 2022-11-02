@@ -15,7 +15,7 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 
 - HTML
 - CSS
-- Git
+- Git (version control)
 
 ## Site preview / showcase
 
