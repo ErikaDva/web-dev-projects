@@ -23,3 +23,9 @@ The design spec and image assets were provided by codecademy.
 ## Live site
 
 - Deployed using Git and GitHub pages
+
+## Resources
+
+- Design idea and materials provided by [codecademy]("www.codecademy.com")
+- Site preview was generated using [ScreenToGif]("https://github.com/NickeManarin/ScreenToGif")
+- Finished project deployed live on [GitHub pages](https://pages.github.com/)
