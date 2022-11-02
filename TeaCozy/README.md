@@ -1,8 +1,8 @@
-# Codecademy Tea Cozy Project
+# Tea Cozy Project
 
 ## Project Description
 
-The design spec and image assets were provided by codecademy.
+This is my first project built with HTML and CSS as part of the codecademy course "Intermediate CSS". The design spec and image assets were provided by codecademy. In this repository, you can find my solution to this project.
 
 ### Goals:
 
@@ -19,6 +19,12 @@ The design spec and image assets were provided by codecademy.
 ## Site preview / showcase
 
 ## Local usage
+
+If you wish to view the site locally, clone the repository and open "index.html" file with your browser.
+
+```
+git clone https://username@bitbucket.org/ErikaDva/web-dev-projects.git ./TeaCozy
+```
 
 ## Live site
 
