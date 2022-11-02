@@ -15,6 +15,7 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 
 - HTML
 - CSS
+- Git
 
 ## Site preview / showcase
 
@@ -35,3 +36,5 @@ git clone https://username@bitbucket.org/ErikaDva/web-dev-projects.git ./TeaCozy
 - Design idea and materials provided by [codecademy](https://www.codecademy.com/)
 - Site preview was generated using [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - Finished project deployed live on [GitHub pages](https://pages.github.com/)
+- Favicon "tea" image provided by [Flaticon](https://www.flaticon.com/)
+- Conversion of .png image to .ico format using free online tool [CONVERTICO](https://convertico.com/)
