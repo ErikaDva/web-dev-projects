@@ -32,6 +32,6 @@ git clone https://username@bitbucket.org/ErikaDva/web-dev-projects.git ./TeaCozy
 
 ## Resources
 
-- Design idea and materials provided by [codecademy]("www.codecademy.com")
-- Site preview was generated using [ScreenToGif]("https://github.com/NickeManarin/ScreenToGif")
+- Design idea and materials provided by [codecademy](https://www.codecademy.com/learn)
+- Site preview was generated using [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - Finished project deployed live on [GitHub pages](https://pages.github.com/)
