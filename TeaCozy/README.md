@@ -6,10 +6,10 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 
 ### Goals:
 
-- Build a website on your own machine (off-platform)
+- Build a website on my own machine (off-platform)
 - Utilise basic HTML and CSS with minimal guidance
-- Implement CSS Flexbox to desing flexible and responsive website
-- Deploy the fictional website on GitHub pages as part of the portfolio projects
+- Implement CSS Flexbox to design a flexible and responsive website
+- Deploy this fictional website on GitHub pages as one of my portfolio projects
 
 ## Built with
 
