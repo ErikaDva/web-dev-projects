@@ -21,10 +21,12 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 
 ## Local usage
 
-If you wish to view the site locally, clone the repository and open "index.html" file with your browser.
+If you wish to view the site locally, clone the repository and open `index.html` file with your browser.
+
+**HTTPS**
 
 ```
-git clone https://username@bitbucket.org/ErikaDva/web-dev-projects.git ./TeaCozy
+$ git clone https://github.com/ErikaDva/web-dev-projects.git ./TeaCozy
 ```
 
 ## Live site
