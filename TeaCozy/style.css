@@ -85,20 +85,21 @@ main {
 /* Featured Tea */
 
 #featured-tea {
-    width: 1200px;
-    margin: 0 auto;
+    max-width: 1200px;
+    margin: auto;
     margin-top: 100px;
 }
 
 .featured-tea-items {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
     gap: 30px;
+    margin:
 }
 
 .tea img {
+    display: inline-block;
     height: 200px;
     width: 300px;
     border-radius: 5px;
