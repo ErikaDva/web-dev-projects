@@ -29,6 +29,8 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 
 ## Site Preview
 
+![](files/teacozy.gif)
+
 ## Local usage
 
 If you wish to view the site locally, clone the repository and open `index.html` file with your browser.
@@ -41,7 +43,9 @@ git clone https://github.com/ErikaDva/web-dev-projects.git ./TeaCozy
 
 ## Live site
 
-- Deployed using Git and GitHub pages
+Deployed using Git and GitHub pages.
+
+https://erikadva.github.io/web-dev-projects/TeaCozy/
 
 ## Resources
 
