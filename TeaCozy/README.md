@@ -1,5 +1,15 @@
 # Tea Cozy Project
 
+## Table of contents
+
+- [Project Description](#project-description)
+  - [Goals](#goals)
+- [Built with](#built-with)
+- [Site Preview](#site-preview)
+- [Local Usage](#local-usage)
+- [Live Site](#live-site)
+- [Resources](#resources)
+
 ## Project Description
 
 This is my first project built with HTML and CSS as part of the codecademy course "Intermediate CSS". The design spec and image assets were provided by codecademy. In this repository, you can find my solution to this project.
@@ -17,7 +27,7 @@ This is my first project built with HTML and CSS as part of the codecademy cours
 - CSS
 - Git (version control)
 
-## Site preview / showcase
+## Site Preview
 
 ## Local usage
 
