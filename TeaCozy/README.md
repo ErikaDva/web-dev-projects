@@ -1,6 +1,6 @@
 # Tea Cozy Project <img src="favicon.ico" align = "right" width=120 height=139 alt="" />
 
-## Table of contents
+### Table of contents
 
 - [Project Description](#project-description)
   - [Goals](#goals)
@@ -36,7 +36,7 @@ If you wish to view the site locally, clone the repository and open `index.html`
 **HTTPS**
 
 ```
-$ git clone https://github.com/ErikaDva/web-dev-projects.git ./TeaCozy
+git clone https://github.com/ErikaDva/web-dev-projects.git ./TeaCozy
 ```
 
 ## Live site
