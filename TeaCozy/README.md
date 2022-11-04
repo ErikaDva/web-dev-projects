@@ -1,4 +1,4 @@
-# Tea Cozy Project
+# Tea Cozy Project <img src="favicon.ico" align = "right" width=120 height=139 alt="" />
 
 ## Table of contents
 
